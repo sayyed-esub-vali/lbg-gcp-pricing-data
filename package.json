@@ -1,0 +1,23 @@
+{
+  "name": "lbg-gcp-pricing-data",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sayyed-esub-vali/lbg-gcp-pricing-data.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sayyed-esub-vali/lbg-gcp-pricing-data/issues"
+  },
+  "homepage": "https://github.com/sayyed-esub-vali/lbg-gcp-pricing-data#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
